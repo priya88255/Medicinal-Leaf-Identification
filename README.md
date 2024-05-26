@@ -1,5 +1,6 @@
 # Medicinal-Leaf-Identification
 The Medicinal Leaf Identification project is designed to create an application that identifies various medicinal leaves using advanced image processing and machine learning techniques. As part of this innovative project, my role was to design the prototype using Figma, focusing on creating an intuitive and user-friendly interface. This involved developing wireframes, mockups, and interactive prototypes to visualize the application’s layout and functionality. My design work aimed to ensure a seamless user experience and align with the project's objectives.
+
 #HOME PAGE
 ![image](https://github.com/priya88255/Medicinal-Leaf-Identification/assets/134779046/135d0fa3-eabf-4d05-8ef9-79d986f2e020)
 #MAIN PAGE
